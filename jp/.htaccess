@@ -1,0 +1,8 @@
+Options +FollowSymLinks
+Options -Indexes
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^houndey\.com\.tw [NC]
+RewriteRule ^(.*)$ http://www.houndey.com.tw/$1 [L,R=301]
+ErrorDocument 404 http://www.houndey.com.tw
+
+

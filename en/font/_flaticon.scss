@@ -1,0 +1,108 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/10/2019 07:24
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-car:before { content: "\f100"; }
+.flaticon-heart:before { content: "\f101"; }
+.flaticon-save:before { content: "\f102"; }
+.flaticon-garden:before { content: "\f103"; }
+.flaticon-solar-panel:before { content: "\f104"; }
+.flaticon-fashion:before { content: "\f105"; }
+.flaticon-shirt:before { content: "\f106"; }
+.flaticon-polo:before { content: "\f107"; }
+.flaticon-garment:before { content: "\f108"; }
+.flaticon-curtain:before { content: "\f109"; }
+.flaticon-blanket:before { content: "\f10a"; }
+.flaticon-blanket-1:before { content: "\f10b"; }
+.flaticon-blanket-2:before { content: "\f10c"; }
+.flaticon-blanket-3:before { content: "\f10d"; }
+.flaticon-blanket-4:before { content: "\f10e"; }
+.flaticon-blanket-5:before { content: "\f10f"; }
+.flaticon-quilt:before { content: "\f110"; }
+.flaticon-blanket-6:before { content: "\f111"; }
+.flaticon-blanket-7:before { content: "\f112"; }
+.flaticon-blanket-8:before { content: "\f113"; }
+.flaticon-fabric:before { content: "\f114"; }
+.flaticon-fabric-1:before { content: "\f115"; }
+.flaticon-rug:before { content: "\f116"; }
+.flaticon-layers:before { content: "\f117"; }
+.flaticon-textile:before { content: "\f118"; }
+.flaticon-breathable:before { content: "\f119"; }
+.flaticon-textile-1:before { content: "\f11a"; }
+.flaticon-rug-1:before { content: "\f11b"; }
+.flaticon-fabric-2:before { content: "\f11c"; }
+.flaticon-print:before { content: "\f11d"; }
+.flaticon-rug-2:before { content: "\f11e"; }
+.flaticon-dust:before { content: "\f11f"; }
+.flaticon-fabric-3:before { content: "\f120"; }
+.flaticon-mexico:before { content: "\f121"; }
+    
+    $font-Flaticon-car: "\f100";
+    $font-Flaticon-heart: "\f101";
+    $font-Flaticon-save: "\f102";
+    $font-Flaticon-garden: "\f103";
+    $font-Flaticon-solar-panel: "\f104";
+    $font-Flaticon-fashion: "\f105";
+    $font-Flaticon-shirt: "\f106";
+    $font-Flaticon-polo: "\f107";
+    $font-Flaticon-garment: "\f108";
+    $font-Flaticon-curtain: "\f109";
+    $font-Flaticon-blanket: "\f10a";
+    $font-Flaticon-blanket-1: "\f10b";
+    $font-Flaticon-blanket-2: "\f10c";
+    $font-Flaticon-blanket-3: "\f10d";
+    $font-Flaticon-blanket-4: "\f10e";
+    $font-Flaticon-blanket-5: "\f10f";
+    $font-Flaticon-quilt: "\f110";
+    $font-Flaticon-blanket-6: "\f111";
+    $font-Flaticon-blanket-7: "\f112";
+    $font-Flaticon-blanket-8: "\f113";
+    $font-Flaticon-fabric: "\f114";
+    $font-Flaticon-fabric-1: "\f115";
+    $font-Flaticon-rug: "\f116";
+    $font-Flaticon-layers: "\f117";
+    $font-Flaticon-textile: "\f118";
+    $font-Flaticon-breathable: "\f119";
+    $font-Flaticon-textile-1: "\f11a";
+    $font-Flaticon-rug-1: "\f11b";
+    $font-Flaticon-fabric-2: "\f11c";
+    $font-Flaticon-print: "\f11d";
+    $font-Flaticon-rug-2: "\f11e";
+    $font-Flaticon-dust: "\f11f";
+    $font-Flaticon-fabric-3: "\f120";
+    $font-Flaticon-mexico: "\f121";

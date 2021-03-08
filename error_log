@@ -1,0 +1,109 @@
+[03-Jul-2020 01:52:16 America/New_York] PHP Notice:  Undefined index: name in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 12
+[03-Jul-2020 01:52:16 America/New_York] PHP Notice:  Undefined index: email in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 13
+[03-Jul-2020 01:52:16 America/New_York] PHP Notice:  Undefined index: company in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 14
+[03-Jul-2020 01:52:16 America/New_York] PHP Notice:  Undefined index: phone in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 15
+[03-Jul-2020 01:52:16 America/New_York] PHP Notice:  Undefined index: country in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 16
+[03-Jul-2020 01:52:16 America/New_York] PHP Notice:  Undefined index: message in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 17
+[15-Jul-2020 14:46:41 America/New_York] PHP Notice:  Undefined index: company in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 14
+[15-Jul-2020 14:46:41 America/New_York] PHP Notice:  Undefined index: country in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 16
+[18-Jul-2020 04:25:15 America/New_York] PHP Notice:  Undefined index: name in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 12
+[18-Jul-2020 04:25:15 America/New_York] PHP Notice:  Undefined index: email in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 13
+[18-Jul-2020 04:25:15 America/New_York] PHP Notice:  Undefined index: company in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 14
+[18-Jul-2020 04:25:15 America/New_York] PHP Notice:  Undefined index: phone in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 15
+[18-Jul-2020 04:25:15 America/New_York] PHP Notice:  Undefined index: country in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 16
+[18-Jul-2020 04:25:15 America/New_York] PHP Notice:  Undefined index: message in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 17
+[26-Aug-2020 08:04:35 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[26-Aug-2020 08:04:35 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[26-Aug-2020 11:53:44 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[26-Aug-2020 11:53:44 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[12-Sep-2020 03:52:24 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[27-Sep-2020 17:00:52 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[03-Oct-2020 00:03:25 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[12-Oct-2020 03:40:57 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[14-Oct-2020 06:30:46 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[17-Oct-2020 21:32:31 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[18-Oct-2020 06:20:51 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[18-Oct-2020 15:10:26 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[20-Oct-2020 11:39:01 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[20-Oct-2020 11:39:13 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[20-Oct-2020 11:39:19 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[22-Oct-2020 15:38:25 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[23-Oct-2020 08:52:47 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[25-Oct-2020 21:51:30 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[01-Nov-2020 22:51:41 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[01-Nov-2020 22:51:41 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[04-Nov-2020 04:04:12 America/New_York] PHP Warning:  require(sys/init.php): failed to open stream: No such file or directory in /home/obamhoif/houndey.com.tw/cart-113.php on line 4
+[04-Nov-2020 04:04:12 America/New_York] PHP Fatal error:  require(): Failed opening required 'sys/init.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/obamhoif/houndey.com.tw/cart-113.php on line 4
+[04-Nov-2020 04:05:41 America/New_York] PHP Warning:  include_once(/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php): failed to open stream: No such file or directory in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:05:41 America/New_York] PHP Warning:  include_once(): Failed opening '/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:06:46 America/New_York] PHP Warning:  include_once(/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php): failed to open stream: No such file or directory in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:06:46 America/New_York] PHP Warning:  include_once(): Failed opening '/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:11:49 America/New_York] PHP Warning:  include_once(/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php): failed to open stream: No such file or directory in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:11:49 America/New_York] PHP Warning:  include_once(): Failed opening '/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:11:57 America/New_York] PHP Warning:  include_once(/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php): failed to open stream: No such file or directory in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:11:57 America/New_York] PHP Warning:  include_once(): Failed opening '/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:12:19 America/New_York] PHP Warning:  include_once(/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php): failed to open stream: No such file or directory in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:12:19 America/New_York] PHP Warning:  include_once(): Failed opening '/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:12:21 America/New_York] PHP Warning:  include_once(/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php): failed to open stream: No such file or directory in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:12:21 America/New_York] PHP Warning:  include_once(): Failed opening '/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 17:12:21 Asia/Taipei] PHP Notice:  Undefined index: attachment in /home/obamhoif/houndey.com.tw/cart-113.php on line 39
+[04-Nov-2020 04:12:23 America/New_York] PHP Warning:  include_once(/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php): failed to open stream: No such file or directory in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:12:23 America/New_York] PHP Warning:  include_once(): Failed opening '/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:29:20 America/New_York] PHP Warning:  include_once(/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php): failed to open stream: No such file or directory in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:29:20 America/New_York] PHP Warning:  include_once(): Failed opening '/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:29:23 America/New_York] PHP Warning:  include_once(/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php): failed to open stream: No such file or directory in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:29:23 America/New_York] PHP Warning:  include_once(): Failed opening '/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 17:29:23 Asia/Taipei] PHP Notice:  Undefined index: attachment in /home/obamhoif/houndey.com.tw/cart-113.php on line 39
+[04-Nov-2020 04:29:23 America/New_York] PHP Warning:  include_once(/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php): failed to open stream: No such file or directory in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:29:23 America/New_York] PHP Warning:  include_once(): Failed opening '/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:37:23 America/New_York] PHP Warning:  include_once(/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php): failed to open stream: No such file or directory in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 04:37:23 America/New_York] PHP Warning:  include_once(): Failed opening '/home/obamhoif/houndey.com.tw/sys/tool/PHPMailer/Oauth.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/obamhoif/houndey.com.tw/sys/lib/common.php on line 8
+[04-Nov-2020 17:37:23 Asia/Taipei] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function sys\ShoppingCart::addProduct(), 1 passed in /home/obamhoif/houndey.com.tw/cart-113.php on line 31 and exactly 2 expected in /home/obamhoif/houndey.com.tw/sys/class/ShoppingCart.php:114
+Stack trace:
+#0 /home/obamhoif/houndey.com.tw/cart-113.php(31): sys\ShoppingCart->addProduct(Object(sys\Product))
+#1 {main}
+  thrown in /home/obamhoif/houndey.com.tw/sys/class/ShoppingCart.php on line 114
+[11-Nov-2020 03:48:37 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[11-Nov-2020 03:48:37 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[23-Nov-2020 13:18:57 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[24-Nov-2020 23:21:45 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[28-Nov-2020 07:20:55 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[03-Dec-2020 01:19:37 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[07-Dec-2020 19:21:56 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[09-Dec-2020 01:46:48 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[11-Dec-2020 17:27:02 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[11-Dec-2020 17:27:03 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[11-Dec-2020 17:54:28 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[11-Dec-2020 17:54:28 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[11-Dec-2020 20:36:46 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[11-Dec-2020 20:36:46 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[13-Dec-2020 13:43:57 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[18-Dec-2020 07:44:02 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[23-Dec-2020 01:43:36 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[02-Jan-2021 15:52:18 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[07-Jan-2021 09:51:25 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[09-Jan-2021 19:26:26 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[12-Jan-2021 03:51:56 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[16-Jan-2021 21:54:25 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[17-Jan-2021 19:27:50 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[21-Jan-2021 06:46:47 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[21-Jan-2021 17:08:18 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[22-Jan-2021 16:17:14 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[31-Jan-2021 10:15:22 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[04-Feb-2021 04:19:04 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[05-Feb-2021 00:10:34 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[05-Feb-2021 00:10:35 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[06-Feb-2021 07:46:18 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[06-Feb-2021 07:47:03 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[08-Feb-2021 22:16:21 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[10-Feb-2021 01:29:26 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[10-Feb-2021 07:20:42 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[17-Feb-2021 07:30:53 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[17-Feb-2021 07:50:11 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[17-Feb-2021 07:50:13 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[19-Feb-2021 04:24:38 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[19-Feb-2021 04:24:38 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[20-Feb-2021 02:18:30 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[20-Feb-2021 11:52:37 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[21-Feb-2021 12:06:18 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
+[21-Feb-2021 12:06:19 America/New_York] PHP Notice:  Undefined variable: captcha in /home/obamhoif/houndey.com.tw/datacenter_email_contact.php on line 18
