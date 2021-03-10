@@ -20,7 +20,7 @@ $(document).ready(function() {
     const showList = () => {
         filterList.forEach(product => {
             $('.table-bordered').children('tbody').append(
-                $('<tr/>').append($('<td/>').append($('<img/>').attr('src', `images/products/${product.ProductNumber}.jpg`)
+                $('<tr class="product-table" />').append($('<td/>').append($('<img/>').attr('src', `images/products/${product.ProductNumber}.jpg`)
                     .attr('width', `150`).addClass('m-r10 pull-left')))
                 .append($('<td/>').text(product.Name))
                 .append($('<td/>').text(product.ProductNumber))

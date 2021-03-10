@@ -716,7 +716,8 @@
     jQuery(document).on('submit', 'form.cons-contact-form', function(e) {
         e.preventDefault();
         var form = jQuery(this);
-        /* sending message */
+        console.log(form)
+            /* sending message */
         jQuery.ajax({
             url: '',
             data: form.serialize() + "&action=contactform",
