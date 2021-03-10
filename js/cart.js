@@ -6,8 +6,11 @@ $(document).ready(function() {
         }
     });
     $('.cart-button').click(function(e) {
+        console.log(e);
         e.preventDefault();
         e.stopPropagation();
+        console.log(e);
+
         const id = $(this).context.dataset.id;
         cartList = JSON.parse(window.localStorage.getItem('cartList')) || [];
         cartList.includes(id) ? cartList.splice(cartList.indexOf(id), 1) : cartList.push(id);
