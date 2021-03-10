@@ -2,19 +2,18 @@ $(document).ready(function() {
     let cartList = JSON.parse(window.localStorage.getItem('cartList')) || [];
     $('.cart-button').each(function(i, value) {
         if (cartList.includes($(value).context.dataset.id)) {
-            $(value).children('.fa-heart').css('color', '#db6969');
+            $(value).children('.fa-heart').css('color', '#50aab2');
+            $(this).children('.fa-heart').css('-webkit-text-stroke', '2px #fff' );
         }
     });
     $('.cart-button').click(function(e) {
-        console.log(e);
         e.preventDefault();
         e.stopPropagation();
-        console.log(e);
-
         const id = $(this).context.dataset.id;
         cartList = JSON.parse(window.localStorage.getItem('cartList')) || [];
         cartList.includes(id) ? cartList.splice(cartList.indexOf(id), 1) : cartList.push(id);
-        $(this).children('.fa-heart').css('color', cartList.includes(id) ? '#db6969' : '#ffffff50');
+        $(this).children('.fa-heart').css('color', cartList.includes(id) ? '#50aab2' : '#ffffff50');
+        $(this).children('.fa-heart').css('-webkit-text-stroke', cartList.includes(id) ? '2px #fff' : '0 #fff');
         window.localStorage.setItem('cartList', JSON.stringify(cartList));
     })
 
