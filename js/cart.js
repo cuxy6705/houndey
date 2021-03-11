@@ -3,7 +3,7 @@ $(document).ready(function() {
     $('.cart-button').each(function(i, value) {
         if (cartList.includes($(value).context.dataset.id)) {
             $(value).children('.fa-heart').css('color', '#50aab2');
-            $(this).children('.fa-heart').css('-webkit-text-stroke', '2px #fff' );
+            $(value).children('.fa-heart').css('-webkit-text-stroke', '2px #fff' );
         }
     });
     $('.cart-button').click(function(e) {
@@ -12,8 +12,12 @@ $(document).ready(function() {
         const id = $(this).context.dataset.id;
         cartList = JSON.parse(window.localStorage.getItem('cartList')) || [];
         cartList.includes(id) ? cartList.splice(cartList.indexOf(id), 1) : cartList.push(id);
-        $(this).children('.fa-heart').css('color', cartList.includes(id) ? '#50aab2' : '#ffffff50');
-        $(this).children('.fa-heart').css('-webkit-text-stroke', cartList.includes(id) ? '2px #fff' : '0 #fff');
+        if (cartList.includes(id)) {
+            $(this).children('.fa-heart').css('color', '#50aab2');
+            $(this).children('.fa-heart').css('-webkit-text-stroke', '2px #fff');
+        } else {
+            $(this).children('.fa-heart').removeAttr( 'style' )
+        }
         window.localStorage.setItem('cartList', JSON.stringify(cartList));
     })
 
