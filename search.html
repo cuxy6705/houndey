@@ -424,24 +424,47 @@
     <script src="js/shortcode.js"></script>
     <script src="js/jquery-ui.js"></script>
     <script>
-        $(document).ready(function() {
-            var params = getParams(window.location.search);
+        $(function() {
+            const getParams = (url) => {
+                let queryString = url.substring(1);
+
+                return queryString.split('&').reduce((init, sParam) => {
+                    let param = sParam.split('=');
+                    let key = decodeURIComponent(param[0]);
+                    let val = decodeURIComponent(param[1]);
+
+                    if (key.substring(key.length - 2) === '[]') {
+                        key = key.substring(0, key.length - 2);
+                        (init[key] || (init[key] = [])).push(val);
+                    } else {
+                        init[key] = val;
+                    }
+
+                    return init;
+                }, {});
+            }
+
+            let params = getParams(window.location.search);
+
+            let minW = (params.minW) ? params.minW : 0;
+            let maxW = (params.maxW) ? params.maxW : 500;
+            let arrow = (maxW == 500) ? " ~ > " : " ~ ";
+
             $(".rangeslider").slider({
                 range: true,
                 min: 0,
                 max: 500,
-                values: [params.minW, params.maxW],
+                values: [minW, maxW],
                 slide: function(event, ui) {
                     if (ui.values[1] == 500) {
                         $("#p_weight").val(ui.values[0] + " ~ > " + ui.values[1]);
                     } else {
                         $("#p_weight").val(ui.values[0] + " ~ " + ui.values[1]);
                     }
-
                 }
             });
 
-            $("#p_weight").val($(".rangeslider").slider("values", 0) + " ~ > " + $(".rangeslider").slider("values", 1));
+            $("#p_weight").val($(".rangeslider").slider("values", 0) + arrow + $(".rangeslider").slider("values", 1));
 
             $.ajax({
                 url: 'js/products-list.json',
@@ -449,8 +472,8 @@
                 method: 'GET',
 
                 success: data => {
-                    var productsList = data.filter(el => el.Weight > params.minW &&
-                        (params.maxW == 500 ? el.Weight < 9999 : el.Weight < params.maxW));
+                    let productsList = data.filter(el => el.Weight > minW &&
+                        (maxW == 500 ? el.Weight < 9999 : el.Weight < maxW));
 
                     if (params.tags) {
                         $.each($("#filterform .filter-tags li input[type='checkbox']"), (idx, el) => {
@@ -463,16 +486,17 @@
                             return el.Property.reduce((init, p) => init || params.tags.indexOf(p) !== -1, false);
                         });
                     }
-                    // console.log(productsList);
+                    console.log(productsList);
 
-                    var container = $('.portfolio-wrap');
-                    var itemSample = container.find('.masonry-item')[0];
+                    let container = $('.portfolio-wrap');
+                    let itemSample = container.find('.masonry-item')[0];
                     if (productsList.length === 0) {
                         itemSample.remove();
                     } else {
                         productsList.forEach((el, idx) => {
-                            var item = $(itemSample);
+                            let item = $(itemSample);
                             if (idx !== 0) item = item.clone();
+
                             item.find('.cart-button').attr('data-id', el.Id)
                             item.find('.wt-box .work-hover-grid img')
                                 .attr('src', 'images/products/' + el.ProductNumber + '.jpg');
@@ -490,6 +514,7 @@
                         originLeft: true
                     });
 
+
                     let cartList = JSON.parse(window.localStorage.getItem('cartList')) || [];
                     $('.cart-button').each(function(i, value) {
                         if (cartList.includes($(value).context.dataset.id)) {
@@ -506,48 +531,7 @@
                         $(this).children('.fa-heart').css('color', cartList.includes(id) ? '#50aab2' : '#ffffff50');
                         $(this).children('.fa-heart').css('-webkit-text-stroke', cartList.includes(id) ? '2px #fff' : '0 #fff');
                         window.localStorage.setItem('cartList', JSON.stringify(cartList));
-                    })
-
-                    let filterList = [];
-
-                    const showList = () => {
-                        filterList.forEach(product => {
-                            $('.table-bordered').children('tbody').append(
-                                $('<tr class="product-table" />').append($('<td/>').append($('<img/>').attr('src', `images/products/${product.ProductNumber}.jpg`)
-                                    .attr('width', `150`).addClass('m-r10 pull-left')))
-                                .append($('<td/>').text(product.Name))
-                                .append($('<td/>').text(product.ProductNumber))
-                                .append($('<td/>').html(product.Content.replace(/\n/g, '<br>')))
-                                .append($('<td/>').html(`<input name="" type="checkbox" id="${product.Id}" value="刪除">
-                                <label for="${product.Id}">刪除</label>`))
-                            )
-                        });
-                    };
-
-                    $.ajax({
-                        url: 'js/products-list.json',
-                        dataType: 'JSON',
-                        method: 'GET',
-                        success: data => {
-                            filterList = data.filter(product => cartList.includes(product.Id));
-                            showList();
-                        }
-                    })
-
-                    // $.getJSON("../js/products-list.json", "", function(data) {
-
-                    // })
-
-                    $('.iocn-save').click(function() {
-                        $('input[type=checkbox]').each(function(i, value) {
-                            if (value.checked) {
-                                cartList.splice(cartList.indexOf(value.id), 1)
-                                $(value).parent('td').parent('tr').remove();
-                            }
-                        })
-                        window.localStorage.setItem('cartList', JSON.stringify(cartList));
-                        filterList = filterList.filter(product => cartList.includes(product.Id));
-                    })
+                    });
                 },
 
                 error: (err, xhr) => {
@@ -556,27 +540,9 @@
             });
 
 
-            function getParams(url) {
-                var queryString = url.substring(1);
 
-                return queryString.split('&').reduce((init, sParam) => {
-                    var param = sParam.split('=');
-                    var key = decodeURIComponent(param[0]);
-                    var val = decodeURIComponent(param[1]);
-
-                    if (key.substring(key.length - 2) === '[]') {
-                        key = key.substring(0, key.length - 2);
-                        (init[key] || (init[key] = [])).push(val);
-                    } else {
-                        init[key] = val;
-                    }
-
-                    return init;
-                }, {});
-            }
         });
     </script>
-    <!-- <script src="js/cart.js"></script> -->
 </body>
 
 </html>

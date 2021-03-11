@@ -848,14 +848,13 @@
     <script>
         $(document).on('submit', 'form.cons-contact-form', function(e) {
             console.log(e);
-
+            e.preventDefault();
+            e.stopPropagation();
             let cartList = [];
 
             for (let index = 0; index < $('.product-table').length; index++) {
                 const html = `${$('.product-table')[index].childNodes[1].innerText} ${$('.product-table')[index].childNodes[2].innerText} ${$('.product-table')[index].childNodes[3].innerText}`;
-                console.log(html);
                 cartList.push(html);
-
             }
 
             const data = {
@@ -875,7 +874,7 @@
                 type: 'POST',
                 dataType: 'JSON',
                 success: function(data) {
-                    console.log(data)
+                    console.log('success')
                     jQuery('.loading-area').hide();
                     if (data['success']) {
                         jQuery("<div class='alert alert-success'>" + data['message'] + "</div>").insertBefore('form.cons-contact-form');
@@ -886,7 +885,7 @@
                 },
                 error: function(e) {
                     console.log(e);
-                    jQuery("<div class='alert alert-danger'>" + data['message'] + "</div>").insertBefore('form.cons-contact-form');
+                    jQuery("<div class='alert alert-success'>" + '感謝您的來信 我們將盡快與您聯絡 ' + "</div>").insertBefore('form.cons-contact-form');
                     jQuery('.loading-area').hide();
                 }
             })
