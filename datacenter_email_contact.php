@@ -27,19 +27,19 @@
 
         }
 
-        // if(isset($_POST['g-recaptcha-response'])){
+        if(isset($_POST['g-recaptcha-response'])){
 
-        //   $captcha=$_POST['g-recaptcha-response'];
+          $captcha=$_POST['g-recaptcha-response'];
 
-        // }
+        }
 
-        // if(!$captcha){
+        if(!$captcha){
 
-        //   echo '<div align=center><br>Please check the verification code form.<br><br>請檢查驗證碼<br><br>確認コードを確認してください</div>';
+          echo '<div align=center><br>Please check the verification code form.<br><br>請檢查驗證碼<br><br>確認コードを確認してください</div>';
 
-        //   exit;
+          exit;
 
-        // }
+        }
 
         $secretKey = "6LdhIroZAAAAAH-uGVLuP7etuzsI_M9_BZpTtg3g";
 
@@ -79,8 +79,6 @@ $Country=$_POST['country'];
 
 $Message=$_POST['message'];
 
-$CartList=$_POST['cartList'];
-
 $mail= new PHPMailer(); //建立新物件
 
 $mail->IsSMTP(); //設定使用SMTP方式寄信
@@ -113,22 +111,10 @@ $mail->Subject ="HOUNDEY - BUSINESS ENQUIRY";  //郵件標題
 
 $mail->Body = "Name: ".$Name."<br>Email: ".$Email."<br>Company: ".$Company."<br>Phone: ".$Phone."<br>Country: ".$Country."<br>Message: ".$Message."<br>"; //郵件內容
 
-foreach($CartList as $key => $value) {
-  $mail->Body = $mail->Body."<br>".$value;
-}
-
-
 $mail->IsHTML(true); //郵件內容為html ( true || false)
-
-$mail->AddAddress("houndey@ms10.hinet.net"); //收件者郵件及名稱
-
-$mail->AddAddress("cuxy1111@gmail.com"); //收件者郵件及名稱
 
 $mail->AddAddress("info@obamboo.com"); //收件者郵件及名稱
 
-$mail->AddAddress("houndey.hq@mail.houndey.com.tw"); //收件者郵件及名稱
-
-$mail->AddAddress("pinchih@mail.houndey.com.tw"); //收件者郵件及名稱
 
 
 
