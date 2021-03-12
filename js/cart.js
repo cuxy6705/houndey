@@ -3,7 +3,7 @@ $(document).ready(function() {
     $('.cart-button').each(function(i, value) {
         if (cartList.includes($(value).context.dataset.id)) {
             $(value).children('.fa-heart').css('color', '#50aab2');
-            $(value).children('.fa-heart').css('-webkit-text-stroke', '2px #fff' );
+            $(value).children('.fa-heart').css('-webkit-text-stroke', '2px #fff');
         }
     });
     $('.cart-button').click(function(e) {
@@ -16,7 +16,7 @@ $(document).ready(function() {
             $(this).children('.fa-heart').css('color', '#50aab2');
             $(this).children('.fa-heart').css('-webkit-text-stroke', '2px #fff');
         } else {
-            $(this).children('.fa-heart').removeAttr( 'style' )
+            $(this).children('.fa-heart').removeAttr('style')
         }
         window.localStorage.setItem('cartList', JSON.stringify(cartList));
     })
