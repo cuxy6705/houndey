@@ -750,7 +750,6 @@
         let tags = [];
         Array.apply(null, form.find('input:checked')).forEach(el => tags.push(el.value));
 
-
         var slider = form.find('.rangeslider');
         var minW = jQuery(slider).slider('values', 0);
         var maxW = jQuery(slider).slider('values', 1);

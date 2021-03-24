@@ -1,10 +1,9 @@
-[
-    {
+[{
         "Id": "1",
         "Name": "Polyester 變色立體布",
         "ProductNumber": "MDS0209JJ00",
         "Content": "幅寬 : 42 吋\n碼重 : 460 g/y\n成份比例 : PE 100%",
-        "Weight" : 460,
+        "Weight": 460,
         "Property": [
             "色紗",
             "永續環境",
@@ -16,7 +15,7 @@
         "Name": "Polyester 通透感小菱形",
         "ProductNumber": "MDS0420AA00",
         "Content": "幅寬 : 47 吋\n碼重 : 460 g/y\n成份比例 : PE 100%",
-        "Weight" : 460,
+        "Weight": 460,
         "Property": [
             "色紗",
             "永續環境",
@@ -28,7 +27,7 @@
         "Name": "Polyester 通透感閃電圖",
         "ProductNumber": "MDS0422AA00",
         "Content": "幅寬 : 46 吋\n碼重 : 350 g/y\n成份比例 : PE 100%",
-        "Weight" : 350,
+        "Weight": 350,
         "Property": [
             "色紗",
             "永續環境",
@@ -40,7 +39,7 @@
         "Name": "Polyester 原抽黑重彈性布",
         "ProductNumber": "GAB2006-8A0",
         "Content": "幅寬 : 47 吋\n碼重 : 290 g/y\n成份比例 : PE 88% / PU 12%",
-        "Weight" : 290,
+        "Weight": 290,
         "Property": [
             "色紗",
             "永續環境",
@@ -53,7 +52,7 @@
         "Name": "Nylon 原抽黑重彈性布",
         "ProductNumber": "GAB4004-5A0",
         "Content": "幅寬 : 46 吋\n碼重 : 245 g/y\n成份比例 : PA 87% / PU 13%",
-        "Weight" : 245,
+        "Weight": 245,
         "Property": [
             "色紗",
             "永續環境",
@@ -66,7 +65,7 @@
         "Name": "Nylon 原抽黑重彈性布",
         "ProductNumber": "GAB4004-6A0",
         "Content": "幅寬 : 64 吋\n碼重 : 270 g/y\n成份比例 : PA 87% / PU 13%",
-        "Weight" : 270,
+        "Weight": 270,
         "Property": [
             "色紗",
             "永續環境",
@@ -79,7 +78,7 @@
         "Name": "Polyester 網布",
         "ProductNumber": "GDB8763-9A4",
         "Content": "幅寬 : 61 吋\n碼重 : 150 g/y\n成份比例 : PE 100%",
-        "Weight" : 150,
+        "Weight": 150,
         "Property": [
             "色紗",
             "永續環境",
@@ -92,7 +91,7 @@
         "Name": "Nylon 環保組織彈性布",
         "ProductNumber": "GAC0007-0A0",
         "Content": "幅寬 : 50 吋\n碼重 : 235 g/y\n成份比例 : rePA 88% / PU 12%",
-        "Weight" : 235,
+        "Weight": 235,
         "Property": [
             "四面彈",
             "永續環境",
@@ -105,7 +104,7 @@
         "Name": "Nylon 環保組織彈性布",
         "ProductNumber": "GAD0021-0A0",
         "Content": "幅寬 : 62 吋\n碼重 : 260 g/y\n成份比例 : rePA 89% / PU 11%",
-        "Weight" : 260,
+        "Weight": 260,
         "Property": [
             "四面彈",
             "永續環境",
@@ -118,7 +117,7 @@
         "Name": "Nylon 環保組織彈性布",
         "ProductNumber": "GAD0022-0A0",
         "Content": "幅寬 : 58 吋\n碼重 : 280 g/y\n成份比例 : rePA 91% / PU 9%",
-        "Weight" : 280,
+        "Weight": 280,
         "Property": [
             "四面彈",
             "永續環境",
@@ -131,7 +130,7 @@
         "Name": "CD - WARSHOW - 3",
         "ProductNumber": "GAB1877-4C0",
         "Content": "幅寬 : 46 吋\n碼重 : 280 g/y\n成份比例 : rePE 88% / PU 12%",
-        "Weight" : 280,
+        "Weight": 280,
         "Property": [
             "四面彈",
             "永續環境",
@@ -143,7 +142,7 @@
         "Name": "CD - 環保加重彈性布",
         "ProductNumber": "GAB2006-7C0",
         "Content": "幅寬 : 58 吋\n碼重 : 305 g/y\n成份比例 : rePE 88% / PU 12%",
-        "Weight" : 305,
+        "Weight": 305,
         "Property": [
             "四面彈",
             "永續環境",
@@ -155,7 +154,7 @@
         "Name": "Nylon 環保 POWER NET",
         "ProductNumber": "GAD2865-0C0",
         "Content": "幅寬 : 60 吋\n碼重 : 220 g/y\n成份比例 : rePA 91% / PU 9%",
-        "Weight" : 220,
+        "Weight": 220,
         "Property": [
             "四面彈",
             "永續環境",
@@ -168,7 +167,7 @@
         "Name": "Nylon 環保組織彈性布",
         "ProductNumber": "GAE5551-0A0",
         "Content": "幅寬 : 48 吋\n碼重 : 250 g/y\n成份比例 : rePA 88% / PU 12%",
-        "Weight" : 250,
+        "Weight": 250,
         "Property": [
             "四面彈",
             "永續環境",
@@ -181,7 +180,7 @@
         "Name": "Nylon 彈性網布",
         "ProductNumber": "GAC2317-0A0",
         "Content": "幅寬 : 60 吋\n碼重 : 395 g/y\n成份比例 : PA 82% / PU 18%",
-        "Weight" : 395,
+        "Weight": 395,
         "Property": [
             "高彈",
             "四面彈",
@@ -194,7 +193,7 @@
         "Name": "NCD 彈性網布",
         "ProductNumber": "GAC2428-0A0",
         "Content": "幅寬 : 67 吋\n碼重 : 260 g/y\n成份比例 : PA 83% / PU 17%",
-        "Weight" : 260,
+        "Weight": 260,
         "Property": [
             "高彈",
             "四面彈",
@@ -206,7 +205,7 @@
         "Name": "NCD 彈性網布",
         "ProductNumber": "GAC2431-0A0",
         "Content": "幅寬 : 62 吋\n碼重 : 260 g/y\n成份比例 : PA 83% / PU 17%",
-        "Weight" : 260,
+        "Weight": 260,
         "Property": [
             "高彈",
             "四面彈",
@@ -219,7 +218,7 @@
         "Name": "Nylon 彈性布",
         "ProductNumber": "GAB3503-0A0",
         "Content": "幅寬 : 62 吋\n碼重 : 180 g/y\n成份比例 : PA 68% / PU 32%",
-        "Weight" : 180,
+        "Weight": 180,
         "Property": [
             "高彈",
             "四面彈",
@@ -231,7 +230,7 @@
         "Name": "Polyester 彈性布",
         "ProductNumber": "GAB3519-0A2",
         "Content": "幅寬 : 62 吋\n碼重 : 220 g/y\n成份比例 : PE 70% / PU 30%",
-        "Weight" : 220,
+        "Weight": 220,
         "Property": [
             "高彈",
             "四面彈",
@@ -243,7 +242,7 @@
         "Name": "Polyester 彈性布",
         "ProductNumber": "GAB3524-0A0",
         "Content": "幅寬 : 62 吋\n碼重 : 200 g/y\n成份比例 : PE 71% / PU 29%",
-        "Weight" : 200,
+        "Weight": 200,
         "Property": [
             "高彈",
             "四面彈",
@@ -255,7 +254,7 @@
         "Name": "Nylon 大曲線彈性布",
         "ProductNumber": "GAC2217-0A0",
         "Content": "幅寬 : 60 吋\n碼重 : 230 g/y\n成份比例 : PA 84% / PU 16%",
-        "Weight" : 230,
+        "Weight": 230,
         "Property": [
             "高彈",
             "四面彈",
@@ -267,7 +266,7 @@
         "Name": "PE 橫條紋彈性網布",
         "ProductNumber": "GAC2457-0A0",
         "Content": "幅寬 : 46 吋\n碼重 : 205 g/y\n成份比例 : PE 83% / PU 17%",
-        "Weight" : 205,
+        "Weight": 205,
         "Property": [
             "高彈",
             "四面彈",
@@ -280,7 +279,7 @@
         "Name": "PA66 小橫紋萊克",
         "ProductNumber": "GAB3511-0A0",
         "Content": "幅寬 : 60 吋\n碼重 : 180 g/y\n成份比例 : PA 66% / PU 34%",
-        "Weight" : 180,
+        "Weight": 180,
         "Property": [
             "高彈",
             "四面彈",
@@ -292,7 +291,7 @@
         "Name": "Nylon 彈性網布",
         "ProductNumber": "GAC2339-0A0",
         "Content": "幅寬 : 61 吋\n碼重 : 220 g/y\n成份比例 : PA 84% / PU 16%",
-        "Weight" : 220,
+        "Weight": 220,
         "Property": [
             "高彈",
             "四面彈",
@@ -305,7 +304,7 @@
         "Name": "Nylon 立體彈性網布",
         "ProductNumber": "GAC2339-0A0",
         "Content": "幅寬 : 61 吋\n碼重 : 220 g/y\n成份比例 : PA 84% / PU 16%",
-        "Weight" : 220,
+        "Weight": 220,
         "Property": [
             "高彈",
             "四面彈",
@@ -318,7 +317,7 @@
         "Name": "Nylon 立體彈性網布",
         "ProductNumber": "GAC2524-0A0",
         "Content": "幅寬 : 59 吋\n碼重 : 275 g/y\n成份比例 : PA 91% / PU 9%",
-        "Weight" : 275,
+        "Weight": 275,
         "Property": [
             "四面彈",
             "透氣網洞",
@@ -330,7 +329,7 @@
         "Name": "Polyester 彈性網布",
         "ProductNumber": "GAD2591-0A0",
         "Content": "幅寬 : 50 吋\n碼重 : 225 g/y\n成份比例 : PE 86% / PU 14%",
-        "Weight" : 225,
+        "Weight": 225,
         "Property": [
             "四面彈",
             "透氣網洞",
@@ -342,7 +341,7 @@
         "Name": "NylonPower Net",
         "ProductNumber": "GAD2852-1B0",
         "Content": "幅寬 : 60 吋\n碼重 : 260 g/y\n成份比例 : PA 80% / PU 20%",
-        "Weight" : 260,
+        "Weight": 260,
         "Property": [
             "高彈",
             "四面彈",
@@ -355,7 +354,7 @@
         "Name": "Nylon 重爽宜網",
         "ProductNumber": "GAD4704-0C1",
         "Content": "幅寬 : 48 吋\n碼重 : 360 g/y\n成份比例 : PA 76% / PU 24%",
-        "Weight" : 360,
+        "Weight": 360,
         "Property": [
             "高彈",
             "四面彈",
@@ -368,7 +367,7 @@
         "Name": "NylonPower Net",
         "ProductNumber": "GAD4773-0A1",
         "Content": "幅寬 : 45 吋\n碼重 : 370 g/y\n成份比例 : PA 86% / PU 14%",
-        "Weight" : 370,
+        "Weight": 370,
         "Property": [
             "四面彈",
             "透氣網洞",
@@ -380,7 +379,7 @@
         "Name": "Polyester CD 麻花網布",
         "ProductNumber": "GAB8939-0A0",
         "Content": "幅寬 : 61 吋\n碼重 : 145 g/y\n成份比例 : PE 100%",
-        "Weight" : 145,
+        "Weight": 145,
         "Property": [
             "透氣網洞",
             "不脫紗"
@@ -391,7 +390,7 @@
         "Name": "Nylon / Polyester 虛線布",
         "ProductNumber": "GAD8444-0A0",
         "Content": "幅寬 : 43 吋\n碼重 : 250 g/y\n成份比例 : PA 14% / PE 86%",
-        "Weight" : 250,
+        "Weight": 250,
         "Property": [
             "不脫紗"
         ]
@@ -401,7 +400,7 @@
         "Name": "Polyester 左右斜線布",
         "ProductNumber": "GAD8454-0A0",
         "Content": "幅寬 : 46 吋\n碼重 : 260 g/y\n成份比例 : PE 100%",
-        "Weight" : 260,
+        "Weight": 260,
         "Property": [
             "不脫紗",
             "永續環境"
@@ -412,7 +411,7 @@
         "Name": "Polyester 斜格紋布",
         "ProductNumber": "GAD8466-0A0",
         "Content": "幅寬 : 45 吋\n碼重 : 290 g/y\n成份比例 : PE 100%",
-        "Weight" : 290,
+        "Weight": 290,
         "Property": [
             "不脫紗",
             "永續環境"
@@ -423,7 +422,7 @@
         "Name": "Polyester 格紋布",
         "ProductNumber": "GAC8470-0A0",
         "Content": "幅寬 : 62 吋\n碼重 : 185 g/y\n成份比例 : PE 100%",
-        "Weight" : 185,
+        "Weight": 185,
         "Property": [
             "不脫紗",
             "永續環境"
@@ -434,7 +433,7 @@
         "Name": "Polyester 方格布",
         "ProductNumber": "GAC8472-0A0",
         "Content": "幅寬 : 63 吋\n碼重 : 200 g/y\n成份比例 : PE 100%",
-        "Weight" : 200,
+        "Weight": 200,
         "Property": [
             "不脫紗",
             "永續環境"
@@ -445,7 +444,7 @@
         "Name": "Polyester DT10004A",
         "ProductNumber": "GAD8483-0A0",
         "Content": "幅寬 : 56 吋\n碼重 : 345 g/y\n成份比例 : PE 100%",
-        "Weight" : 345,
+        "Weight": 345,
         "Property": [
             "耐磨",
             "不脫紗"
@@ -456,7 +455,7 @@
         "Name": "合身迷彩短版上衣",
         "ProductNumber": "TFAD0180A01ZZA53",
         "Content": "幅寬 : 60 吋\n碼重 : 725 g/y\n成份比例 : PA 84% / PU 16%",
-        "Weight" : 725,
+        "Weight": 725,
         "Property": [
             "一體成型",
             "不脫紗",
@@ -469,7 +468,7 @@
         "Name": "暗袋迷彩緊身褲",
         "ProductNumber": "TFAF0168A01ZZA53",
         "Content": "幅寬 : 60 吋\n碼重 : 725 g/y\n成份比例 : PA 84% / PU 16%",
-        "Weight" : 725,
+        "Weight": 725,
         "Property": [
             "一體成型",
             "不脫紗",
@@ -482,7 +481,7 @@
         "Name": "含羞草緊身褲",
         "ProductNumber": "TFAF0162A01ZZA53",
         "Content": "幅寬 : 60 吋\n碼重 : 765 g/y\n成份比例 : PA 84% / PU 16%",
-        "Weight" : 765,
+        "Weight": 765,
         "Property": [
             "一體成型",
             "不脫紗",
@@ -495,7 +494,7 @@
         "Name": "雙色長袖上衣",
         "ProductNumber": "TFAD0174B01ZZA53",
         "Content": "幅寬 : 60 吋\n碼重 : 725 g/y\n成份比例 : PA 44% / PE 41% / PU 15%",
-        "Weight" : 725,
+        "Weight": 725,
         "Property": [
             "一體成型",
             "不脫紗",
@@ -508,7 +507,7 @@
         "Name": "輕薄系列上衣",
         "ProductNumber": "TFAD0164A01ZZA53",
         "Content": "幅寬 : 60 吋\n碼重 : 420 g/y\n成份比例 : PA 89% / PU 11%",
-        "Weight" : 420,
+        "Weight": 420,
         "Property": [
             "一體成型",
             "不脫紗",
@@ -521,7 +520,7 @@
         "Name": "輕薄系列寬版上衣",
         "ProductNumber": "TFAD0147B01ZZA53",
         "Content": "幅寬 : 60 吋\n碼重 : 765 g/y\n成份比例 : PA 90% / PU 10%",
-        "Weight" : 765,
+        "Weight": 765,
         "Property": [
             "一體成型",
             "不脫紗",
@@ -534,7 +533,7 @@
         "Name": "輕薄系列寬版上衣",
         "ProductNumber": "TFAD0175A01ZZA11",
         "Content": "幅寬 : 60 吋\n碼重 : 420 g/y\n成份比例 : PA 83% / PU 17%",
-        "Weight" : 420,
+        "Weight": 420,
         "Property": [
             "一體成型",
             "不脫紗",
@@ -547,7 +546,7 @@
         "Name": "M / L 女款短袖上衣",
         "ProductNumber": "TFAD0182A01ZZA53",
         "Content": "幅寬 : 60 吋\n碼重 : 725 g/y\n成份比例 : PA 84% / PU 16%",
-        "Weight" : 725,
+        "Weight": 725,
         "Property": [
             "一體成型",
             "不脫紗",
@@ -560,7 +559,7 @@
         "Name": "烈焰薔薇流蘇開岔洋裝",
         "ProductNumber": "TFAZ0163A01ZZA53",
         "Content": "幅寬 : 60 吋\n碼重 : 725 g/y\n成份比例 : PA 84% / PU 16%",
-        "Weight" : 725,
+        "Weight": 725,
         "Property": [
             "一體成型",
             "不脫紗",
@@ -573,7 +572,7 @@
         "Name": "\"悸動\" 心跳的審判日 - 連帽短版長袖",
         "ProductNumber": "TFAC0011A01ZZA53",
         "Content": "幅寬 : 55 吋\n碼重 : 310 g/y\n成份比例 : PA 79% / PU 21%",
-        "Weight" : 310,
+        "Weight": 310,
         "Property": [
             "不脫紗",
             "永續環境",
@@ -586,7 +585,7 @@
         "Name": "\"悸動\" 心跳的審判日 - 7 分緊身褲",
         "ProductNumber": "TFAE0014A01ZZA53",
         "Content": "幅寬 : 55 吋\n碼重 : 310 g/y\n成份比例 : PA 79% / PU 21%",
-        "Weight" : 310,
+        "Weight": 310,
         "Property": [
             "不脫紗",
             "永續環境",
@@ -599,7 +598,7 @@
         "Name": "HYPERCOOL 蓮花圖騰短版上衣",
         "ProductNumber": "TFAC0018A01ZZA11",
         "Content": "幅寬 : 62 吋\n碼重 : 285 g/y\n成份比例 : PA 49% / PE 35% / PU 16%",
-        "Weight" : 285,
+        "Weight": 285,
         "Property": [
             "不脫紗",
             "永續環境",
@@ -612,7 +611,7 @@
         "Name": "HYPERCOOL 迷彩短袖上衣",
         "ProductNumber": "TFAA0022B01ZZA11",
         "Content": "幅寬 : 62 吋\n碼重 : 285 g/y\n成份比例 : PA 49% / PE 35% / PU 16%",
-        "Weight" : 285,
+        "Weight": 285,
         "Property": [
             "不脫紗",
             "永續環境",
@@ -625,7 +624,7 @@
         "Name": "瑪麗蓮夢露連帽上衣",
         "ProductNumber": "TFFC0017A01ZZA53",
         "Content": "幅寬 : 55 吋\n碼重 : 310 g/y\n成份比例 : PA 62% / PE 25% / PU 13%",
-        "Weight" : 310,
+        "Weight": 310,
         "Property": [
             "不脫紗",
             "永續環境",
@@ -637,7 +636,7 @@
         "Name": "HYPERCOOL 細肩帶背心",
         "ProductNumber": "TFAA0021A01ZZA11",
         "Content": "幅寬 : 62 吋\n碼重 : 285 g/y\n成份比例 : PA 49% / PE 35% / PU 16%",
-        "Weight" : 285,
+        "Weight": 285,
         "Property": [
             "不脫紗",
             "永續環境",
@@ -650,7 +649,7 @@
         "Name": "F2-50*50 Menu A02A",
         "ProductNumber": "TFAA0008A01ZZA53",
         "Content": "幅寬 : 41 吋\n碼重 : 160 g/y\n成份比例 : PA 63% / PE 25% / PU 12%",
-        "Weight" : 160,
+        "Weight": 160,
         "Property": [
             "不脫紗",
             "FREE-CUT",
@@ -662,7 +661,7 @@
         "Name": "F1-50*50 Menu A01A",
         "ProductNumber": "TFAA0007A01ZZA64",
         "Content": "幅寬 : 62 吋\n碼重 : 395 g/y\n成份比例 : PA 63% / PE 25% / PU 12%",
-        "Weight" : 395,
+        "Weight": 395,
         "Property": [
             "不脫紗",
             "FREE-CUT",
@@ -674,7 +673,7 @@
         "Name": "北歐式的配樂 運動 Bra",
         "ProductNumber": "TFAH0035A01ZZA53",
         "Content": "幅寬 : 60 吋\n碼重 : 725 g/y\n成份比例 : PA 84% / PU 16%",
-        "Weight" : 725,
+        "Weight": 725,
         "Property": [
             "不脫紗",
             "高彈",
@@ -687,7 +686,7 @@
         "Name": "含羞草 Bra",
         "ProductNumber": "TFAH0033A01ZZA53",
         "Content": "幅寬 : 60 吋\n碼重 : 725 g/y\n成份比例 : PA 84% / PU 16%",
-        "Weight" : 725,
+        "Weight": 725,
         "Property": [
             "不脫紗",
             "高彈",
@@ -699,7 +698,7 @@
         "Name": "Circular Knit Jacquard 藍色 Bra",
         "ProductNumber": "HFEA0028AA00A29",
         "Content": "幅寬 : 40 吋\n碼重 : 570 g/y\n成份比例 : PA 83% / PU 17%",
-        "Weight" : 570,
+        "Weight": 570,
         "Property": [
             "高彈",
             "FREE-DESIGN"
@@ -710,7 +709,7 @@
         "Name": "Circular Knit Jacquard 藍色 Legging",
         "ProductNumber": "HFEA0029AA00A29",
         "Content": "幅寬 : 40 吋\n碼重 : 520 g/y\n成份比例 : PA 83% / PU 17%",
-        "Weight" : 520,
+        "Weight": 520,
         "Property": [
             "高彈",
             "FREE-DESIGN"
@@ -721,7 +720,7 @@
         "Name": "Circular Knit Jacquard 三色 Bra",
         "ProductNumber": "WHHA0019AA00Z99",
         "Content": "幅寬 : 30 吋\n碼重 : 465 g/y\n成份比例 : PE 84% / PU 16%",
-        "Weight" : 465,
+        "Weight": 465,
         "Property": [
             "高彈",
             "色紗",
@@ -734,7 +733,7 @@
         "Name": "Circular Knit Jacquard 三色 Legging",
         "ProductNumber": "WHHA0020AA00Z99",
         "Content": "幅寬 : 32 吋\n碼重 : 330 g/y\n成份比例 : PE 92% / PU 8%",
-        "Weight" : 330,
+        "Weight": 330,
         "Property": [
             "高彈",
             "色紗",
@@ -747,7 +746,7 @@
         "Name": "50*50 menu-A05B 深色薄霧紫",
         "ProductNumber": "TFAB0027A01ZZA53",
         "Content": "幅寬 : 60 吋\n碼重 : 680 g/y\n成份比例 : PA 84% / PU 16%",
-        "Weight" : 680,
+        "Weight": 680,
         "Property": [
             "高彈",
             "色紗",
@@ -760,7 +759,7 @@
         "Name": "Circular Knit Jacquard 毛巾布 Menu",
         "ProductNumber": "WHHA0021AA00Z99",
         "Content": "幅寬 : 44 吋\n碼重 : 290 g/y\n成份比例 : PA 92% / PE 1% / PU 17%",
-        "Weight" : 290,
+        "Weight": 290,
         "Property": [
             "色紗",
             "立體組織",
@@ -773,7 +772,7 @@
         "Name": "Circular Knit Jacquard 多色系列",
         "ProductNumber": "WHHA0022AA00Z99",
         "Content": "幅寬 : 44 吋\n碼重 : 175 g/y\n成份比例 : PE 98% / PU 2%",
-        "Weight" : 175,
+        "Weight": 175,
         "Property": [
             "色紗",
             "立體組織",
@@ -785,7 +784,7 @@
         "Name": "Polyester 竹炭蜂巢萊克",
         "ProductNumber": "GAC1463-3A2",
         "Content": "幅寬 : 46 吋\n碼重 : 205 g/y\n成份比例 : PE 90% / PU 10%",
-        "Weight" : 205,
+        "Weight": 205,
         "Property": [
             "功能性材料",
             "透氣網洞",
@@ -797,7 +796,7 @@
         "Name": "Nylon 涼爽紗 Power Net",
         "ProductNumber": "GAD2867-2A1",
         "Content": "幅寬 : 62 吋\n碼重 : 200 g/y\n成份比例 : PA 71% / PU 29%",
-        "Weight" : 200,
+        "Weight": 200,
         "Property": [
             "功能性材料",
             "高彈",
@@ -810,7 +809,7 @@
         "Name": "Nylon 抗菌 Power Net",
         "ProductNumber": "GAD2867-6A1",
         "Content": "幅寬 : 58 吋\n碼重 : 160 g/y\n成份比例 : PA 73% / PU 27%",
-        "Weight" : 160,
+        "Weight": 160,
         "Property": [
             "功能性材料",
             "高彈",
@@ -823,7 +822,7 @@
         "Name": "Polyester 橫紋網洞布",
         "ProductNumber": "GAC3303-0A0",
         "Content": "幅寬 : 60 吋\n碼重 : 245 g/y\n成份比例 : PE 100%",
-        "Weight" : 245,
+        "Weight": 245,
         "Property": [
             "功能性材料",
             "透氣網洞",
@@ -835,7 +834,7 @@
         "Name": "Polyester 長形顆粒",
         "ProductNumber": "GAC3305-0A0",
         "Content": "幅寬 : 60 吋\n碼重 : 260 g/y\n成份比例 : PE 100%",
-        "Weight" : 260,
+        "Weight": 260,
         "Property": [
             "功能性材料",
             "不脫紗"
@@ -846,7 +845,7 @@
         "Name": "Polyester 洞洞網布",
         "ProductNumber": "GAD3306-0A0",
         "Content": "幅寬 : 60 吋\n碼重 : 190 g/y\n成份比例 : PE 100%",
-        "Weight" : 190,
+        "Weight": 190,
         "Property": [
             "功能性材料",
             "透氣網洞",
@@ -858,7 +857,7 @@
         "Name": "CD 環保麂皮組織彈性布",
         "ProductNumber": "KAD0024-0A0",
         "Content": "幅寬 : 50 吋\n碼重 : 400 g/y\n成份比例 : PE 93 % / PU 7 %",
-        "Weight" : 400,
+        "Weight": 400,
         "Property": [
             "刷毛",
             "永續環境",
@@ -870,7 +869,7 @@
         "Name": "CD 環保麂皮組織彈性布",
         "ProductNumber": "KAD0025-0A0",
         "Content": "幅寬 : 50 吋\n碼重 : 435 g/y\n成份比例 : PE 93 % / PU 7 %",
-        "Weight" : 435,
+        "Weight": 435,
         "Property": [
             "刷毛",
             "永續環境",
@@ -882,7 +881,7 @@
         "Name": "Nylon / CD 環保組織彈性布",
         "ProductNumber": "KAD0005-1A0",
         "Content": "幅寬 : 47 吋\n碼重 : 305 g/y\n成份比例 : PA 20 % / PE 71 % / PU 9 %",
-        "Weight" : 305,
+        "Weight": 305,
         "Property": [
             "永續環境"
         ]
@@ -892,7 +891,7 @@
         "Name": "Nylon / CD 環保組織彈性布",
         "ProductNumber": "KAD0006-1A0",
         "Content": "幅寬 : 47 吋\n碼重 : 290 g/y\n成份比例 : PA 20 % / PE 71 % / PU 9 %",
-        "Weight" : 290,
+        "Weight": 290,
         "Property": [
             "永續環境"
         ]
@@ -902,7 +901,7 @@
         "Name": "CD 環保鳥眼彈性布",
         "ProductNumber": "KAC0010-0A0",
         "Content": "幅寬 : 47 吋\n碼重 : 270 g/y\n成份比例 : PE 85 % / PU 15 %",
-        "Weight" : 270,
+        "Weight": 270,
         "Property": [
             "立體組織",
             "永續環境"
@@ -913,7 +912,7 @@
         "Name": "CD 環保組織彈性布",
         "ProductNumber": "KAC4318-1A0",
         "Content": "幅寬 : 49 吋\n碼重 : 275 g/y\n成份比例 : PE 88 % / PU 12 %",
-        "Weight" : 275,
+        "Weight": 275,
         "Property": [
             "永續環境"
         ]
@@ -923,7 +922,7 @@
         "Name": "Nylon / CD 環保透光組織彈性布",
         "ProductNumber": "KAD4594-0A0",
         "Content": "幅寬 : 57 吋\n碼重 : 300 g/y\n成份比例 : PA 69 % / PE 22 % / PU 9 %",
-        "Weight" : 300,
+        "Weight": 300,
         "Property": [
             "透氣",
             "永續環境"
@@ -934,7 +933,7 @@
         "Name": "Nylon / CD 環保透光組織彈性布",
         "ProductNumber": "KAD4589-0A0",
         "Content": "幅寬 : 56 吋\n碼重 : 300 g/y\n成份比例 : PA 67 % / PE 24 % / PU 9 %",
-        "Weight" : 300,
+        "Weight": 300,
         "Property": [
             "透氣",
             "永續環境"

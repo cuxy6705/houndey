@@ -426,8 +426,8 @@
     <script>
         $(document).ready(function() {
             const getParams = (url) => {
-                let queryString = url.substring(1);
-
+                let queryString = url.substring(1).replace(/\+/g, '%20');
+                console.log(queryString)
                 return queryString.split('&').reduce((init, sParam) => {
                     let param = sParam.split('=');
                     let key = decodeURIComponent(param[0]);
